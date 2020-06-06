@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c55d032-f941-450c-a303-980b34f4b091" name="Default Changelist" comment="day4">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marWebdriverJava.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="day3" />
+                <branch-info repo="$PROJECT_DIR$" source="day4" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b1a6ec641a8e326614288c05da94725973ab12e7" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/HelgaMark/homework.git" />
+        <option value="https://github.com/HelgaMark/marWebdriverJava.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1biglmjKKxfn4dq36jx7429Med3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="testng repository" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.AnnotationsTest">
+    <configuration name="AnnotationsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="marWebdriverJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnnotationsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstClass.testCountLetters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="marWebdriverJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstClass" />
+      <option name="METHOD_NAME" value="testCountLetters" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstClass.test_ActorCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="marWebdriverJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstClass" />
+      <option name="METHOD_NAME" value="test_ActorCreation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="marWebdriverJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearchTest.test0001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="marWebdriverJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchTest" />
+      <option name="METHOD_NAME" value="test0001" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FirstClass.test_ActorCreation" />
+        <item itemvalue="TestNG.GoogleSearchTest.test0001" />
+        <item itemvalue="TestNG.GoogleSearchTest" />
+        <item itemvalue="TestNG.AnnotationsTest" />
+        <item itemvalue="TestNG.FirstClass.testCountLetters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c55d032-f941-450c-a303-980b34f4b091" name="Default Changelist" comment="" />
+      <created>1589120484046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589120484046</updated>
+    </task>
+    <task id="LOCAL-00001" summary="my hm">
+      <created>1589996274746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589996274746</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day4">
+      <created>1591451427501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591451427502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day4">
+      <created>1591452486715</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591452486715</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+        <entry key="3" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="github/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my hm" />
+    <MESSAGE value="day4 test" />
+    <MESSAGE value="day4" />
+    <option name="LAST_COMMIT_MESSAGE" value="day4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="635" height="768" key="#GoogleSearchTest" timestamp="1591362391775">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="635" height="768" key="#GoogleSearchTest/0.0.1366.768@0.0.1366.768" timestamp="1591362391775" />
+    <state x="309" y="62" width="1044" height="643" key="#Inspections" timestamp="1589124040329">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="309" y="62" width="1044" height="643" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1589124040329" />
+    <state x="568" y="247" width="558" height="274" key="#Notifications" timestamp="1591452527433">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="568" y="247" width="558" height="274" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1591452527433" />
+    <state x="426" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591443874823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="426" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1591443874823" />
+    <state x="916" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1590465091533">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="916" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1590465091533" />
+    <state x="-10" y="304" width="490" height="464" key="#xdebugger.evaluate" timestamp="1590930786808">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="-10" y="304" width="490" height="464" key="#xdebugger.evaluate/0.0.1366.768@0.0.1366.768" timestamp="1590930786808" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1589346283559">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589346283559" />
+    <state x="507" y="286" key="Github.CreateGistDialog" timestamp="1591452278212">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="507" y="286" key="Github.CreateGistDialog/0.0.1366.768@0.0.1366.768" timestamp="1591452278211" />
+    <state x="967" y="248" key="Github.Dialog.Accounts.Choose" timestamp="1591444531435">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="967" y="248" key="Github.Dialog.Accounts.Choose/0.0.1366.768@0.0.1366.768" timestamp="1591444531435" />
+    <state x="540" y="282" key="Github.ShareDialog" timestamp="1589349037139">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="540" y="282" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1589349037139" />
+    <state x="434" y="82" key="Github.UntrackedFilesDialog" timestamp="1589349057579">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="434" y="82" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1589349057579" />
+    <state width="952" height="187" key="GridCell.Tab.0.bottom" timestamp="1591451577357">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="952" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591451577357" />
+    <state width="952" height="187" key="GridCell.Tab.0.center" timestamp="1591451577356">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="952" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591451577356" />
+    <state width="952" height="187" key="GridCell.Tab.0.left" timestamp="1591451577356">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="952" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591451577356" />
+    <state width="952" height="187" key="GridCell.Tab.0.right" timestamp="1591451577357">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="952" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591451577357" />
+    <state width="1323" height="390" key="GridCell.Tab.1.bottom" timestamp="1591438728305">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="390" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591438728305" />
+    <state width="1323" height="390" key="GridCell.Tab.1.center" timestamp="1591438728304">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="390" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1591438728304" />
+    <state width="1323" height="390" key="GridCell.Tab.1.left" timestamp="1591438728304">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="390" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1591438728304" />
+    <state width="1323" height="390" key="GridCell.Tab.1.right" timestamp="1591438728304">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="390" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1591438728304" />
+    <state x="103" y="35" key="Maven.ArtifactSearchDialog" timestamp="1590630993611">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="103" y="35" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1590630993611" />
+    <state x="179" y="60" width="998" height="708" key="SettingsEditor" timestamp="1589372460240">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="179" y="60" width="998" height="708" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1589372460240" />
+    <state x="166" y="110" key="Vcs.Push.Dialog.v2" timestamp="1591462170447">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="166" y="110" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1591462170447" />
+    <state width="691" height="392" key="XDebugger.FullValuePopup" timestamp="1591328934118">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="691" height="392" key="XDebugger.FullValuePopup/0.0.1366.768@0.0.1366.768" timestamp="1591328934118" />
+    <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591448748175">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1591448748175" />
+    <state x="252" y="113" width="861" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589349248973">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="252" y="113" width="861" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1589349248973" />
+    <state x="65" y="45" key="new project wizard" timestamp="1590224088777">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="45" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1590224088777" />
+    <state x="618" y="174" key="run.anything.popup" timestamp="1589121842076">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="618" y="174" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1589121842076" />
+    <state x="754" y="242" key="scopes" timestamp="1589121379441">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="754" y="242" key="scopes/0.0.1366.768@0.0.1366.768" timestamp="1589121379441" />
+    <state x="625" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1589121818820">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="625" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1589121818820" />
+    <state x="513" y="175" key="svn.repositoryBrowser" timestamp="1589344113584">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="513" y="175" key="svn.repositoryBrowser/0.0.1366.768@0.0.1366.768" timestamp="1589344113584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FirstClass.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="stringArray" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
